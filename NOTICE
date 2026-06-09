@@ -1,0 +1,20 @@
+ClaudeStatus
+Copyright 2026 ALANGMeow
+
+This product includes software developed by ALANGMeow.
+Licensed under the Apache License, Version 2.0.
+
+--------------------------------------------------------------------------------
+Third-party assets
+--------------------------------------------------------------------------------
+
+The status-light icons under assets/ (emoji_u*.svg) are from the
+Noto Emoji project:
+
+    Noto Emoji
+    Copyright 2013 Google, Inc. All Rights Reserved.
+    https://github.com/googlefonts/noto-emoji
+    Licensed under the Apache License, Version 2.0.
+
+The original license text accompanying these assets is preserved in
+assets/LICENSE.

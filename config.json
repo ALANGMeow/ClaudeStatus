@@ -1,0 +1,1 @@
+{"Port":51234,"BlinkMs":500,"WaitingDecaySec":60,"StaleSec":600,"OffsetX":0,"OffsetY":0,"RightGap":16,"Scale":1.5,"DotScale":1.5,"LogEvents":false,"RunningStaleSec":150,"HideOnFullscreen":true,"FontName":"Segoe UI","FontWeight":400,"TextRunning":"Active","TextWaiting":"Finished","TextAttention":"Ask","TextIdle":"Idle","TextNone":"Claude"}
